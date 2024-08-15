@@ -29,7 +29,7 @@ Where the platform is deployed, it supports an extensive and diverse seletion of
 
 ## RWD and analytics
 
-As infrastructure for structured EHR data extraction scales across the NHS, the vital missing component is an ability to systematically surface concepts from the unstructured record. These concepts are the missing piece that provide a full picture for patients, to enable more precise analysis, better predictive models, and Real-World Data (RWD) that are essential for life sciences research and clinical trial recruitment.
+As infrastructure for structured EHR data extraction scales across the NHS, the vital missing component is an ability to systematically surface concepts from the unstructured record. These concepts fill in missing data gaps to provide a high fidelity representation of patients, enabling more precise analysis, better predictive models, and Real-World Data (RWD) that are essential for life sciences research and clinical trial recruitment.
 
 ## Workshops 2024 Q2
 
